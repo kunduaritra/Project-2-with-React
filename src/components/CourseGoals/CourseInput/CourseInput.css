@@ -31,3 +31,9 @@
 .form-control.invalid label {
   color: red;
 }
+
+.form-control.invalid button {
+  color: rgb(255, 0, 0);
+  background-color: rgb(147, 185, 255);
+  border-color: red;
+}
